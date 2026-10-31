@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream": "blackmatrix7/ios_rule_script",
+  "branch": "master",
+  "upstream_commit": "0b6897dc17e0c513d25449c935a9694818e32f0c",
+  "mode": "merge-upstream",
+  "checked_at": "2026-10-31T11:22:03.789Z"
+}
